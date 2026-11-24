@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# 편집기 사이드카·문서는 색인 대상이 아님
+Disallow: /*.srcmap.json$
+Disallow: /README-배포안내.md
+
+Sitemap: https://kijang1.github.io/neurogenetics-lab/sitemap.xml

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Neurogenetics Lab">
+  <rect width="64" height="64" fill="#fbfcfd"/>
+  <rect x="4.5" y="4.5" width="55" height="55" fill="none" stroke="#232733" stroke-width="2.6"/>
+  <text x="32" y="43.5" text-anchor="middle"
+        font-family="Newsreader, Georgia, 'Times New Roman', serif"
+        font-size="27" letter-spacing="-0.5" fill="#232733">NL</text>
+</svg>
